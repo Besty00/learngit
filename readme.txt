@@ -1,2 +1,2 @@
-诸侯并起
-民不聊生
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
